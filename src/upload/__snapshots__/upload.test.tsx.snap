@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`upload change image successfully: data:image/png;base64,KOKMkOKWoV/ilqEp 1`] = `"data:image/png;base64,KOKMkOKWoV/ilqEp"`;
+
+exports[`upload change image successfully: data:image/png;base64,KOKWoV/ilqHijJA 1`] = `"data:image/png;base64,KOKWoV/ilqHijJAp"`;
+
+exports[`upload mount successfullly 1`] = `
+<div
+  data-testid="upload-component"
+>
+  <input
+    style="display: none;"
+    type="file"
+  />
+  <div>
+    点击上传
+  </div>
+  <div />
+</div>
+`;
+
+exports[`upload remove successfully: data:image/png;base64,KOKMkOKWoV/ilqEp 1`] = `"data:image/png;base64,KOKMkOKWoV/ilqEp"`;
+
+exports[`upload upload and show preview successfully: data:image/png;base64,KOKMkOKWoV/ilqEp 1`] = `"data:image/png;base64,KOKMkOKWoV/ilqEp"`;
